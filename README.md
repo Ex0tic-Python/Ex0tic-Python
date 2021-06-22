@@ -1,6 +1,9 @@
-## Welcome to my Github!  
-My name's Ex0tic_Python. I'm an intermediate beginner who programs in Python and am learning Java.  
-I enjoy playing video games, mainly FPS's such as R6, Overwatch, Cod, etc.
+## 🐍Welcome to my Github!🐍  
+My name's Ex0tic_Python.
+
+![terminal.png](https://github.com/Ex0tic-Python/Ex0tic-Python/blob/main/terminal.png?raw=true)
+ I'm an intermediate beginner who programs in Python and am learning Java.  
+🕹I enjoy playing video games, mainly FPS's such as R6, Overwatch, Cod, etc.
 
 ## Links:  
 ###### *Discord - Ex0tic_Python#7571*  
