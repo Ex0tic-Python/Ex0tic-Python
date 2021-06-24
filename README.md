@@ -6,7 +6,8 @@ My name's Ex0tic_Python
 🕹I enjoy playing video games, mainly FPS's such as R6, Overwatch, COD, etc.
 
 ## 🔗Links:  
-###### 💻*Where I spend a lot of time - https://discord.gg/code*
+###### 💻[*Where I spend a lot of time*](https://discord.gg/code) *- The Coding Den*  
+###### ⚔[*Codewars*](https://www.codewars.com/users/Ex0tic-Python) *- Ex0tic-Python*  
 ###### 🖥*Discord - Ex0tic_Python#7571*  
 ###### 🎮*Steam - Ex0tic_Python*  
 ###### ❄*Blizzard Games - Ex0ticPython#1872*  
