@@ -13,4 +13,4 @@ My name's Ex0tic_Python
 ###### ❄*Blizzard Games - Ex0ticPython#1872*  
 ###### 👊*Riot Games - Ex0ticPython#01000*  
 
-#### 🔻Check out some of the things I'm working on below!🔻
+#### 🔻Check out what I'm working on below!🔻
