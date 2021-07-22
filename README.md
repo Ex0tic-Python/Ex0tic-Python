@@ -13,17 +13,7 @@ Here are some of my Github stats that show my top programming languages and othe
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ex0tic-Python&langs_count=3&theme=dark" />
-</a>
-
-<!--
-May fix later
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ex0tic-Python&hide=stars&count_private=true&show_icons=true&title_color=#2602b5&text_color=#ffffff&icon_color=#4414ff&bg_color=#000000&hide_border=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ex0tic-Python&langs_count=3&title_color=#2602b5&text_color=#ffffff&icon_color=#4414ff&bg_color=#000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
--->
+</a>  
 
 ---
 
@@ -40,3 +30,13 @@ If you ever just want to talk about something, message me and I'll respond whene
 ---
 
 #### 🔻Check out what I'm working on below!🔻
+
+<!--
+May fix later
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ex0tic-Python&hide=stars&count_private=true&show_icons=true&title_color=#2602b5&text_color=#ffffff&icon_color=#4414ff&bg_color=#000000&hide_border=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ex0tic-Python&langs_count=3&title_color=#2602b5&text_color=#ffffff&icon_color=#4414ff&bg_color=#000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+-->
