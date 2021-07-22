@@ -1,16 +1,4 @@
 ## 🐍Welcome to my Github!🐍  
 My name's Ex0tic_Python
 
-![terminal.png](https://github.com/Ex0tic-Python/Ex0tic-Python/blob/main/terminal.png?raw=true)
- I'm an intermediate beginner who programs in Python and am learning Java.  
-🕹I enjoy playing video games, mainly FPS's such as R6, Overwatch, COD, etc.
-
-## 🔗Links:  
-###### 💻[*Where I spend a lot of time*](https://discord.gg/code) *- The Coding Den*  
-###### ⚔[*Codewars*](https://www.codewars.com/users/Ex0tic-Python) *- Ex0tic-Python*  
-###### 🖥*Discord - Ex0tic_Python#7571*  
-###### 🎮*Steam - Ex0tic_Python*  
-###### ❄*Blizzard Games - Ex0ticPython#1872*  
-###### 👊*Riot Games - Ex0ticPython#01000*  
-
-#### 🔻Check out what I'm working on below!🔻
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Exotic_Python)](https://github.com/anuraghazra/github-readme-stats)
