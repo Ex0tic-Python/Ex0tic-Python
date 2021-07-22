@@ -14,7 +14,7 @@ Here are some of my Github stats that show my top programming languages and othe
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ex0tic-Python&langs_count=3&theme=dark" />
 </a>  
-
+<br />
 # Links
 Here you can find some of my links through which you can connect with me or just see more of me :)
 ###### 💻[*Where I spend a lot of time*](https://discord.gg/code) *- The Coding Den (Discord Server)*  
