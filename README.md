@@ -12,16 +12,18 @@ Here are some of my Github stats that show my top programming languages and othe
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ex0tic-Python&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ex0tic-Python&langs_count=5&theme=dark&hide_border=true&card_width=500" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ex0tic-Python&langs_count=6&theme=dark&hide_border=true&card_width=500" />
 </a>  
 
 ---
 
 # Links
 Here you can find some of my links through which you can connect with me or just see more of me :)
+###### 🖱[*My Website*](https://ex0tic-python.github.io)
 ###### 💻[*Where I spend a lot of time*](https://discord.gg/code) *- The Coding Den (Discord Server)*  
 ###### ⚔[*Codewars*](https://www.codewars.com/users/Ex0tic-Python) *- Ex0tic-Python*  
 ###### 🖥*Discord - Ex0tic_Python#7571*  
+###### 🎵*Spotify - Ex0tic_Python*
 ###### 🎮*Steam - Ex0tic_Python*  
 ###### ❄*Blizzard Games - Ex0ticPython#1872*  
 ###### 👊*Riot Games - Ex0ticPython#01000*  
