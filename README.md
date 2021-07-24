@@ -12,7 +12,7 @@ Here are some of my Github stats that show my top programming languages and othe
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ex0tic-Python&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ex0tic-Python&langs_count=5&theme=dark&hide_border=true&card_width=250" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ex0tic-Python&langs_count=5&theme=dark&hide_border=true&card_width=500" />
 </a>  
 
 ---
