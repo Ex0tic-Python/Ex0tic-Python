@@ -6,7 +6,7 @@
 
 Hey, welcome to my Github :D  
 My name's Anibal, aka *Ex0tic-Python*  
-I'm a young programmer who programs in mostly Python (at least for now) and dabbles in other languages. I just write code because it's fun and who knows, maybe I could get a career in this someday :)  
+I'm a young programmer who programs in mostly Python and C++ while also dabbling in other languages. I just write code because it's fun and who knows, maybe I could get a career in this someday :)  
 Here are some of my Github stats that show my top programming languages and other stats:  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ex0tic-Python&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" />
