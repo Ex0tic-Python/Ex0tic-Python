@@ -104,7 +104,11 @@
 <p>
     <h3 align="center">My GitHub Stats</h3>
     <hr>
-
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ex0tic-Python&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=dark&hide_border=true&custom_title=My%20Stats&line_height=34" alt="My GitHub Stats Card">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ex0tic-Python&custom_title=My%20Most%20Used%20Languages&layout=pie&lang_count=6&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true" alt="My GitHub Top Languages Card">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ex0tic_Python&hide=other,git%20config&theme=dark&hide_border=true" alt="My Wakatime Card">
+    </p>
     <br><br>
 </p>
 
@@ -116,43 +120,43 @@
         <tr align="center">
             <td><a href="https://github.com/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors" target="_blank">Multiplayer-Rock-Paper-Scissors</td>
             <td>
-                <img src="https://img.shields.io/github/commit-activity/t/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors/main" alt="Total Commits Badge"
+                <img src="https://img.shields.io/github/commit-activity/t/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors/main?label=Commits" alt="Total Commits Badge"
             </td>
             <td>
-                <img src="https://img.shields.io/github/last-commit/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors/main" alt="Last Commit Badge"
+                <img src="https://img.shields.io/github/last-commit/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors/main?label=Last%20Commit" alt="Last Commit Badge"
             </td>
             <td>
-                <img src="https://img.shields.io/github/stars/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors" alt="Stars Badge"
+                <img src="https://img.shields.io/github/stars/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors?label=Stars" alt="Stars Badge"
             </td>
             <td>
-                <img src="https://img.shields.io/github/forks/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors" alt="Forks Badge"
+                <img src="https://img.shields.io/github/forks/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors?label=Forks" alt="Forks Badge"
             </td>
             <td>
-                <img src="https://img.shields.io/github/issues-pr/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors" alt="Pull Requests Badge"
+                <img src="https://img.shields.io/github/issues-pr/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors?label=Pull%20Requests" alt="Pull Requests Badge"
             </td>
             <td>
-                <img src="https://img.shields.io/github/issues/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors" alt="Issues Badge"
+                <img src="https://img.shields.io/github/issues/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors?label=Issues" alt="Issues Badge"
             </td>   
         </tr>
         <tr align="center">
             <td><a href="https://github.com/Ex0tic-Python/Basketball-Stat-Tracking-Aid" target="_blank">Basketball-Stat-Tracking-Aid</td>
             <td>
-                <img src="https://img.shields.io/github/commit-activity/t/Ex0tic-Python/Basketball-Stat-Tracking-Aid/main" alt="Total Commits Badge"
+                <img src="https://img.shields.io/github/commit-activity/t/Ex0tic-Python/Basketball-Stat-Tracking-Aid/main?label=Commits" alt="Total Commits Badge"
             </td>
             <td>
-                <img src="https://img.shields.io/github/last-commit/Ex0tic-Python/Basketball-Stat-Tracking-Aid/main" alt="Last Commit Badge"
+                <img src="https://img.shields.io/github/last-commit/Ex0tic-Python/Basketball-Stat-Tracking-Aid/main?label=Last%20Commit" alt="Last Commit Badge"
             </td>
             <td>
-                <img src="https://img.shields.io/github/stars/Ex0tic-Python/Basketball-Stat-Tracking-Aid" alt="Stars Badge"
+                <img src="https://img.shields.io/github/stars/Ex0tic-Python/Basketball-Stat-Tracking-Aid?label=Stars" alt="Stars Badge"
             </td>
             <td>
-                <img src="https://img.shields.io/github/forks/Ex0tic-Python/Basketball-Stat-Tracking-Aid" alt="Forks Badge"
+                <img src="https://img.shields.io/github/forks/Ex0tic-Python/Basketball-Stat-Tracking-Aid?label=Forks" alt="Forks Badge"
             </td>
             <td>
-                <img src="https://img.shields.io/github/issues-pr/Ex0tic-Python/Basketball-Stat-Tracking-Aid" alt="Pull Requests Badge"
+                <img src="https://img.shields.io/github/issues-pr/Ex0tic-Python/Basketball-Stat-Tracking-Aid?label=Pull%20Requests" alt="Pull Requests Badge"
             </td>
             <td>
-                <img src="https://img.shields.io/github/issues/Ex0tic-Python/Basketball-Stat-Tracking-Aid" alt="Issues Badge"
+                <img src="https://img.shields.io/github/issues/Ex0tic-Python/Basketball-Stat-Tracking-Aid?label=Issues" alt="Issues Badge"
             </td> 
         </tr>
     </table>
