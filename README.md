@@ -118,27 +118,6 @@
     <hr>
     <table align="center">
         <tr align="center">
-            <td><a href="https://github.com/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors" target="_blank">Multiplayer-Rock-Paper-Scissors</a></td>
-            <td>
-                <img src="https://img.shields.io/github/commit-activity/t/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors/main?label=Commits" alt="Total Commits Badge">
-            </td>
-            <td>
-                <img src="https://img.shields.io/github/last-commit/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors/main?label=Last%20Commit" alt="Last Commit Badge">
-            </td>
-            <td>
-                <img src="https://img.shields.io/github/stars/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors?label=Stars" alt="Stars Badge">
-            </td>
-            <td>
-                <img src="https://img.shields.io/github/forks/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors?label=Forks" alt="Forks Badge">
-            </td>
-            <td>
-                <img src="https://img.shields.io/github/issues-pr/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors?label=Pull%20Requests" alt="Pull Requests Badge">
-            </td>
-            <td>
-                <img src="https://img.shields.io/github/issues/Ex0tic-Python/Multiplayer-Rock-Paper-Scissors?label=Issues" alt="Issues Badge">
-            </td>   
-        </tr>
-        <tr align="center">
             <td><a href="https://github.com/Ex0tic-Python/Basketball-Stat-Tracking-Aid" target="_blank">Basketball-Stat-Tracking-Aid</a></td>
             <td>
                 <img src="https://img.shields.io/github/commit-activity/t/Ex0tic-Python/Basketball-Stat-Tracking-Aid/main?label=Commits" alt="Total Commits Badge">
@@ -179,6 +158,27 @@
             <td>
                 <img src="https://img.shields.io/github/issues/Ex0tic-Python/Mega-Bot?label=Issues" alt="Issues Badge">
             </td> 
+        </tr>
+        <tr align="center">
+            <td><a href="https://github.com/Ex0tic-Python/OSRS-Wrapper" target="_blank">OSRS-Wrapper</a></td>
+            <td>
+                <img src="https://img.shields.io/github/commit-activity/t/Ex0tic-Python/OSRS-Wrapper/main?label=Commits" alt="Total Commits Badge">
+            </td>
+            <td>
+                <img src="https://img.shields.io/github/last-commit/Ex0tic-Python/OSRS-Wrapper/main?label=Last%20Commit" alt="Last Commit Badge">
+            </td>
+            <td>
+                <img src="https://img.shields.io/github/stars/Ex0tic-Python/OSRS-Wrapper?label=Stars" alt="Stars Badge">
+            </td>
+            <td>
+                <img src="https://img.shields.io/github/forks/Ex0tic-Python/OSRS-Wrapper?label=Forks" alt="Forks Badge">
+            </td>
+            <td>
+                <img src="https://img.shields.io/github/issues-pr/Ex0tic-Python/OSRS-Wrapper?label=Pull%20Requests" alt="Pull Requests Badge">
+            </td>
+            <td>
+                <img src="https://img.shields.io/github/issues/Ex0tic-Python/OSRS-Wrapper?label=Issues" alt="Issues Badge">
+            </td>   
         </tr>
     </table>
 </p>
