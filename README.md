@@ -159,5 +159,26 @@
                 <img src="https://img.shields.io/github/issues/Ex0tic-Python/Basketball-Stat-Tracking-Aid?label=Issues" alt="Issues Badge">
             </td> 
         </tr>
+        <tr align="center">
+            <td><a href="https://github.com/Ex0tic-Python/Mega-Bot" target="_blank">Mega-Bot</a></td>
+            <td>
+                <img src="https://img.shields.io/github/commit-activity/t/Ex0tic-Python/Mega-Bot/main?label=Commits" alt="Total Commits Badge">
+            </td>
+            <td>
+                <img src="https://img.shields.io/github/last-commit/Ex0tic-Python/Mega-Bot/main?label=Last%20Commit" alt="Last Commit Badge">
+            </td>
+            <td>
+                <img src="https://img.shields.io/github/stars/Ex0tic-Python/Mega-Bot?label=Stars" alt="Stars Badge">
+            </td>
+            <td>
+                <img src="https://img.shields.io/github/forks/Ex0tic-Python/Mega-Bot?label=Forks" alt="Forks Badge">
+            </td>
+            <td>
+                <img src="https://img.shields.io/github/issues-pr/Ex0tic-Python/Mega-Bot?label=Pull%20Requests" alt="Pull Requests Badge">
+            </td>
+            <td>
+                <img src="https://img.shields.io/github/issues/Ex0tic-Python/Mega-Bot?label=Issues" alt="Issues Badge">
+            </td> 
+        </tr>
     </table>
 </p>
